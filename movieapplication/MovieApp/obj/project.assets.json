@@ -8826,11 +8826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\reddy\\source\\repos\\movieapplication\\MovieApp\\MovieApp.csproj",
+      "projectUniqueName": "E:\\MovieAppGit\\MovieApp\\movieapplication\\MovieApp\\MovieApp.csproj",
       "projectName": "MovieApp",
-      "projectPath": "C:\\Users\\reddy\\source\\repos\\movieapplication\\MovieApp\\MovieApp.csproj",
+      "projectPath": "E:\\MovieAppGit\\MovieApp\\movieapplication\\MovieApp\\MovieApp.csproj",
       "packagesPath": "C:\\Users\\reddy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\reddy\\source\\repos\\movieapplication\\MovieApp\\obj\\",
+      "outputPath": "E:\\MovieAppGit\\MovieApp\\movieapplication\\MovieApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\reddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
